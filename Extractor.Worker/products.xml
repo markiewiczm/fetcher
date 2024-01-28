@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product id="1">
+    <name>Stolik niewywracalny</name>
+    <quantity>18</quantity>
+    <price>15</price>
+  </product>
+  <product id="2">
+    <name>Gaśnica sejmowa</name>
+    <quantity>1</quantity>
+    <price>20.40</price>
+  </product>
+  <product id="3">
+    <name>Choinka z bombkami UE</name>
+    <quantity>1</quantity>
+    <price>100</price>
+  </product>
+  <product id="4">
+    <name>Zestaw nagłośnieniowy</name>
+    <quantity>1</quantity>
+    <price>666.66</price>
+  </product>
+</products>
